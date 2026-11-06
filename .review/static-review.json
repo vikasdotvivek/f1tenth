@@ -1,0 +1,700 @@
+{
+  "generator": "repository-static-triage",
+  "version": "1.0",
+  "repository": "vikasdotvivek/f1tenth",
+  "revision": "a11f3b60c9f304413fc061dcf65cf837d5adf996",
+  "tracked_files": 138,
+  "scanned": [
+    {
+      "path": "gap_follow/CMakeLists.txt",
+      "lines": 65,
+      "bytes": 1507
+    },
+    {
+      "path": "gap_follow/gap_follow/__init__.py",
+      "lines": 0,
+      "bytes": 0
+    },
+    {
+      "path": "gap_follow/scripts/reactive_node.py",
+      "lines": 177,
+      "bytes": 6007
+    },
+    {
+      "path": "gap_follow/setup.py",
+      "lines": 26,
+      "bytes": 663
+    },
+    {
+      "path": "gap_follow/src/reactive_node.cpp",
+      "lines": 118,
+      "bytes": 4642
+    },
+    {
+      "path": "lqr/CMakeLists.txt",
+      "lines": 72,
+      "bytes": 1615
+    },
+    {
+      "path": "lqr/lqr/__init__.py",
+      "lines": 0,
+      "bytes": 0
+    },
+    {
+      "path": "lqr/scripts/lqr_node.py",
+      "lines": 306,
+      "bytes": 11393
+    },
+    {
+      "path": "lqr/scripts/utils.py",
+      "lines": 50,
+      "bytes": 2106
+    },
+    {
+      "path": "lqr/setup.py",
+      "lines": 26,
+      "bytes": 640
+    },
+    {
+      "path": "mpc/CMakeLists.txt",
+      "lines": 73,
+      "bytes": 1616
+    },
+    {
+      "path": "mpc/mpc/__init__.py",
+      "lines": 0,
+      "bytes": 0
+    },
+    {
+      "path": "mpc/scripts/mpc_node.py",
+      "lines": 620,
+      "bytes": 25750
+    },
+    {
+      "path": "mpc/scripts/utils.py",
+      "lines": 61,
+      "bytes": 2803
+    },
+    {
+      "path": "mpc/setup.py",
+      "lines": 26,
+      "bytes": 667
+    },
+    {
+      "path": "mpc/src/mpc_node.cpp",
+      "lines": 45,
+      "bytes": 1037
+    },
+    {
+      "path": "particle_filter/deprecated/CMakeLists.txt",
+      "lines": 199,
+      "bytes": 6858
+    },
+    {
+      "path": "particle_filter/deprecated/src/particle_filter.py",
+      "lines": 687,
+      "bytes": 31815
+    },
+    {
+      "path": "particle_filter/deprecated/src/utils.py",
+      "lines": 187,
+      "bytes": 6903
+    },
+    {
+      "path": "particle_filter/launch/localize_launch.py",
+      "lines": 78,
+      "bytes": 2992
+    },
+    {
+      "path": "particle_filter/particle_filter/__init__.py",
+      "lines": 0,
+      "bytes": 0
+    },
+    {
+      "path": "particle_filter/particle_filter/particle_filter.py",
+      "lines": 726,
+      "bytes": 32874
+    },
+    {
+      "path": "particle_filter/particle_filter/utils.py",
+      "lines": 190,
+      "bytes": 7025
+    },
+    {
+      "path": "particle_filter/setup.py",
+      "lines": 31,
+      "bytes": 992
+    },
+    {
+      "path": "particle_filter/test/test_copyright.py",
+      "lines": 23,
+      "bytes": 790
+    },
+    {
+      "path": "particle_filter/test/test_flake8.py",
+      "lines": 25,
+      "bytes": 884
+    },
+    {
+      "path": "particle_filter/test/test_pep257.py",
+      "lines": 23,
+      "bytes": 803
+    },
+    {
+      "path": "pure_pursuit/CMakeLists.txt",
+      "lines": 75,
+      "bytes": 1711
+    },
+    {
+      "path": "pure_pursuit/pure_pursuit/__init__.py",
+      "lines": 0,
+      "bytes": 0
+    },
+    {
+      "path": "pure_pursuit/scripts/pure_pursuit_node.py",
+      "lines": 203,
+      "bytes": 7759
+    },
+    {
+      "path": "pure_pursuit/setup.py",
+      "lines": 26,
+      "bytes": 712
+    },
+    {
+      "path": "rrt/CMakeLists.txt",
+      "lines": 73,
+      "bytes": 1668
+    },
+    {
+      "path": "rrt/include/rrt/rrt.h",
+      "lines": 74,
+      "bytes": 2410
+    },
+    {
+      "path": "rrt/rrt/__init__.py",
+      "lines": 0,
+      "bytes": 0
+    },
+    {
+      "path": "rrt/scripts/motion_planning_pure_pursuit_node.py",
+      "lines": 324,
+      "bytes": 12643
+    },
+    {
+      "path": "rrt/scripts/rrt_node.py",
+      "lines": 743,
+      "bytes": 29323
+    },
+    {
+      "path": "rrt/setup.py",
+      "lines": 28,
+      "bytes": 766
+    },
+    {
+      "path": "rrt/src/rrt.cpp",
+      "lines": 203,
+      "bytes": 6951
+    },
+    {
+      "path": "rrt/src/rrt_node.cpp",
+      "lines": 9,
+      "bytes": 168
+    },
+    {
+      "path": "safety_node/CMakeLists.txt",
+      "lines": 58,
+      "bytes": 1118
+    },
+    {
+      "path": "safety_node/safety_node/__init__.py",
+      "lines": 0,
+      "bytes": 0
+    },
+    {
+      "path": "safety_node/scripts/safety_node.py",
+      "lines": 68,
+      "bytes": 2773
+    },
+    {
+      "path": "safety_node/setup.py",
+      "lines": 26,
+      "bytes": 760
+    },
+    {
+      "path": "safety_node/src/safety_node.cpp",
+      "lines": 60,
+      "bytes": 2382
+    },
+    {
+      "path": "scan_matching/CMakeLists.txt",
+      "lines": 72,
+      "bytes": 1690
+    },
+    {
+      "path": "scan_matching/include/scan_matching_skeleton/correspond.h",
+      "lines": 95,
+      "bytes": 2899
+    },
+    {
+      "path": "scan_matching/include/scan_matching_skeleton/transform.h",
+      "lines": 58,
+      "bytes": 1561
+    },
+    {
+      "path": "scan_matching/include/scan_matching_skeleton/visualization.h",
+      "lines": 38,
+      "bytes": 1130
+    },
+    {
+      "path": "scan_matching/scan_matching/__init__.py",
+      "lines": 0,
+      "bytes": 0
+    },
+    {
+      "path": "scan_matching/setup.py",
+      "lines": 26,
+      "bytes": 681
+    },
+    {
+      "path": "scan_matching/src/correspond.cpp",
+      "lines": 191,
+      "bytes": 5922
+    },
+    {
+      "path": "scan_matching/src/scanmatch_node.cpp",
+      "lines": 195,
+      "bytes": 6714
+    },
+    {
+      "path": "scan_matching/src/transform.cpp",
+      "lines": 392,
+      "bytes": 11555
+    },
+    {
+      "path": "scan_matching/src/visualization.cpp",
+      "lines": 61,
+      "bytes": 2213
+    },
+    {
+      "path": "wall_follow/CMakeLists.txt",
+      "lines": 65,
+      "bytes": 1523
+    },
+    {
+      "path": "wall_follow/scripts/wall_follow_node.py",
+      "lines": 172,
+      "bytes": 5466
+    },
+    {
+      "path": "wall_follow/setup.py",
+      "lines": 26,
+      "bytes": 672
+    },
+    {
+      "path": "wall_follow/src/wall_follow_node.cpp",
+      "lines": 157,
+      "bytes": 5459
+    },
+    {
+      "path": "wall_follow/wall_follow/__init__.py",
+      "lines": 0,
+      "bytes": 0
+    },
+    {
+      "path": "waypoint_logger/CMakeLists.txt",
+      "lines": 65,
+      "bytes": 1531
+    },
+    {
+      "path": "waypoint_logger/scripts/waypoint_logger_node.py",
+      "lines": 82,
+      "bytes": 2497
+    },
+    {
+      "path": "waypoint_logger/setup.py",
+      "lines": 26,
+      "bytes": 698
+    },
+    {
+      "path": "waypoint_logger/waypoint_logger/__init__.py",
+      "lines": 0,
+      "bytes": 0
+    }
+  ],
+  "skipped": [
+    {
+      "path": ".github/workflows/code-improvement-review.yml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "README.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "csv_data/levine_2nd.csv",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "gap_follow/README.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "gap_follow/package.xml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "gap_follow/setup.cfg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lqr/package.xml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lqr/setup.cfg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "mpc/package.xml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "mpc/setup.cfg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/README.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/config/localize.yaml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/deprecated/localize.launch",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/deprecated/map_server.launch",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/deprecated/old_package.xml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/deprecated/slime.launch",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/docs/Lab5.pdf",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/docs/RangeLibcUsageandInformation.pdf",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/maps/Hockenheim_map.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/maps/Hockenheim_map.yaml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/maps/Silverstone_map.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/maps/Silverstone_map.yaml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/maps/cps_2023.pgm",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/maps/cps_2023.yaml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/maps/cps_2023_old.pgm",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/maps/cps_2023_old.yaml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/maps/e7_floor3_merged.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/maps/e7_floor3_merged.yaml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/maps/e7_floor5.pgm",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/maps/e7_floor5.yaml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/maps/e7_floor5_bigger.pgm",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "particle_filter/maps/e7_floor5_bigger.yaml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/maps/e7_floor5_biggest.pgm",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "particle_filter/maps/e7_floor5_biggest.yaml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/maps/e7_floor5_biggest_RAW.pgm",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "particle_filter/maps/test_world.pgm",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/maps/test_world.yaml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/media/comparison.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/media/thumb.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/package.xml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/resource/particle_filter",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/rviz/pf.rviz",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "particle_filter/setup.cfg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "pure_pursuit/LICENSE",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "pure_pursuit/package.xml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "pure_pursuit/setup.cfg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "rrt/LICENSE",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "rrt/lab6_pkg.egg-info/PKG-INFO",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "rrt/lab6_pkg.egg-info/SOURCES.txt",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "rrt/lab6_pkg.egg-info/dependency_links.txt",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "rrt/lab6_pkg.egg-info/entry_points.txt",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "rrt/lab6_pkg.egg-info/requires.txt",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "rrt/lab6_pkg.egg-info/top_level.txt",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "rrt/lab6_pkg.egg-info/zip-safe",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "rrt/package.xml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "rrt/setup.cfg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "safety_node/README.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "safety_node/package.xml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "safety_node/setup.cfg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "scan_matching/README.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "scan_matching/package.xml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "scan_matching/setup.cfg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "wall_follow/README.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "wall_follow/img/IntertiaPID.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "wall_follow/img/f1_stickers_01.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "wall_follow/img/f1_stickers_02.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "wall_follow/img/f1_stickers_03.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "wall_follow/img/f1_stickers_04.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "wall_follow/img/wall_following_lab_figure_1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "wall_follow/img/wall_following_lab_figure_2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "wall_follow/package.xml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "wall_follow/setup.cfg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "waypoint_logger/README.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "waypoint_logger/package.xml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "waypoint_logger/setup.cfg",
+      "reason": "non-source format; content not audited"
+    }
+  ],
+  "manifests": [
+    "gap_follow/CMakeLists.txt",
+    "gap_follow/package.xml",
+    "gap_follow/setup.py",
+    "lqr/CMakeLists.txt",
+    "lqr/package.xml",
+    "lqr/setup.py",
+    "mpc/CMakeLists.txt",
+    "mpc/package.xml",
+    "mpc/setup.py",
+    "particle_filter/deprecated/CMakeLists.txt",
+    "particle_filter/package.xml",
+    "particle_filter/setup.py",
+    "pure_pursuit/CMakeLists.txt",
+    "pure_pursuit/package.xml",
+    "pure_pursuit/setup.py",
+    "rrt/CMakeLists.txt",
+    "rrt/package.xml",
+    "rrt/setup.py",
+    "safety_node/CMakeLists.txt",
+    "safety_node/package.xml",
+    "safety_node/setup.py",
+    "scan_matching/CMakeLists.txt",
+    "scan_matching/package.xml",
+    "scan_matching/setup.py",
+    "wall_follow/CMakeLists.txt",
+    "wall_follow/package.xml",
+    "wall_follow/setup.py",
+    "waypoint_logger/CMakeLists.txt",
+    "waypoint_logger/package.xml",
+    "waypoint_logger/setup.py"
+  ],
+  "conventional_test_paths": [
+    "particle_filter/maps/test_world.pgm",
+    "particle_filter/maps/test_world.yaml",
+    "particle_filter/test/test_copyright.py",
+    "particle_filter/test/test_flake8.py",
+    "particle_filter/test/test_pep257.py"
+  ],
+  "findings": [
+    {
+      "rule": "python3-parse",
+      "priority": "P1",
+      "path": "particle_filter/deprecated/src/particle_filter.py",
+      "line": 128,
+      "title": "Does not parse with the audit runner Python 3",
+      "recommendation": "Confirm the intended Python version. This may be legacy Python 2 rather than an unintended syntax error; compile with the supported interpreter.",
+      "status": "review-required",
+      "source": "https://github.com/vikasdotvivek/f1tenth/blob/a11f3b60c9f304413fc061dcf65cf837d5adf996/particle_filter/deprecated/src/particle_filter.py#L128"
+    },
+    {
+      "rule": "python3-parse",
+      "priority": "P1",
+      "path": "rrt/setup.py",
+      "line": 26,
+      "title": "Does not parse with the audit runner Python 3",
+      "recommendation": "Confirm the intended Python version. This may be legacy Python 2 rather than an unintended syntax error; compile with the supported interpreter.",
+      "status": "review-required",
+      "source": "https://github.com/vikasdotvivek/f1tenth/blob/a11f3b60c9f304413fc061dcf65cf837d5adf996/rrt/setup.py#L26"
+    },
+    {
+      "rule": "silent-except",
+      "priority": "P2",
+      "path": "waypoint_logger/scripts/waypoint_logger_node.py",
+      "line": 73,
+      "title": "Exception handler only passes",
+      "recommendation": "Decide whether the error is recoverable; surface nonrecoverable failures instead of silently continuing.",
+      "status": "review-required",
+      "source": "https://github.com/vikasdotvivek/f1tenth/blob/a11f3b60c9f304413fc061dcf65cf837d5adf996/waypoint_logger/scripts/waypoint_logger_node.py#L73"
+    }
+  ],
+  "total_findings": 3,
+  "findings_omitted": 0,
+  "execution": "No repository code, tests, builds or hardware were executed."
+}
